@@ -4,7 +4,7 @@ This is (probably) a project about bikesharing
 
 ## Information about how to use your project
 
-This could include:
+disclaimer: the project is incomplete and not all functionality will work
 
 - check out
 - run bikeshare_starter.py
